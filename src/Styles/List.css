@@ -1,0 +1,9 @@
+.List{
+  list-style: none;
+}
+
+.List-horizontal{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

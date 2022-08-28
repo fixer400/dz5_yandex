@@ -1,0 +1,8 @@
+.TvElement{
+  display: flex;
+  width: 100%;
+}
+
+.TvElement span{
+  padding-right: 20px
+}

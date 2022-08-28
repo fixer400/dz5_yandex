@@ -1,0 +1,8 @@
+.NewsElement a{
+  text-decoration: none;
+  color: black;
+}
+
+.NewsElement{
+  display: flex;
+}
